@@ -1,0 +1,25 @@
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\bin\Debug\SOMIOD.exe.config
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\bin\Debug\SOMIOD.exe
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\bin\Debug\SOMIOD.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\obj\Debug\SOMIOD.csproj.AssemblyReference.cache
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\obj\Debug\SOMIOD.Properties.Resources.resources
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\obj\Debug\SOMIOD.csproj.GenerateResource.cache
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\obj\Debug\SOMIOD.csproj.CoreCompileInputs.cache
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\obj\Debug\SOMIOD.exe
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\obj\Debug\SOMIOD.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\bin\Debug\SOMIOD.exe.config
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\bin\Debug\SOMIOD.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\bin\Debug\SOMIOD.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\bin\Debug\M2Mqtt.Net.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\obj\Debug\SOMIOD.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\obj\Debug\SOMIOD.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\obj\Debug\SOMIOD.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\obj\Debug\SOMIOD.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\obj\Debug\SOMIOD.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\obj\Debug\SOMIOD.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\obj\Debug\SOMIOD.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\bin\Debug\M2Mqtt.Net.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\obj\Debug\SOMIOD.Form1.resources
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIOD\obj\Debug\SOMIOD.csproj.CopyComplete

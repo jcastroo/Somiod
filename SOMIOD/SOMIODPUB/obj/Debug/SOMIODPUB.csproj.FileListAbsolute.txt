@@ -1,0 +1,150 @@
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODPUB.exe.config
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODPUB.exe
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODPUB.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.csproj.AssemblyReference.cache
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.FormPub.resources
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.Properties.Resources.resources
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.csproj.GenerateResource.cache
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.csproj.CoreCompileInputs.cache
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.exe
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\M2Mqtt.Net.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.csproj.CopyComplete
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\RestSharp.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODMiddleware.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Buffers.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Memory.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Text.Json.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.ValueTuple.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\WebActivatorEx.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Swashbuckle.Core.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Web.Http.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODMiddleware.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODMiddleware.dll.config
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\RestSharp.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Buffers.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Memory.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Text.Json.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.ValueTuple.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Web.Http.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODPUB.exe.config
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODPUB.exe
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODPUB.pdb
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\RestSharp.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODMiddleware.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Buffers.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Memory.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Text.Json.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.ValueTuple.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\WebActivatorEx.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Swashbuckle.Core.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Web.Http.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODMiddleware.pdb
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODMiddleware.dll.config
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\RestSharp.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Buffers.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Memory.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Text.Json.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.ValueTuple.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Web.Http.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPub.csproj.AssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.FormPub.resources
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.Properties.Resources.resources
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPub.csproj.GenerateResource.cache
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPub.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPub.csproj.CopyComplete
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.exe
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.pdb
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODPUB.exe.config
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODPUB.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODPUB.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\M2Mqtt.Net.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\RestSharp.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODMiddleware.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Buffers.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Memory.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Text.Json.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.ValueTuple.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\WebActivatorEx.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Swashbuckle.Core.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Web.Http.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODMiddleware.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\SOMIODMiddleware.dll.config
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\RestSharp.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Buffers.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Memory.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Text.Json.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.ValueTuple.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Web.Http.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPub.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.FormPub.resources
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPub.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPub.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPub.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODPUB\obj\Debug\SOMIODPUB.pdb

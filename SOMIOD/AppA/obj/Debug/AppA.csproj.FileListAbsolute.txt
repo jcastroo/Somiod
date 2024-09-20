@@ -1,0 +1,143 @@
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\AppA.exe.config
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\AppA.exe
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\AppA.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\M2Mqtt.Net.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\RestSharp.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Buffers.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Memory.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Text.Json.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.ValueTuple.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\RestSharp.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Buffers.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Memory.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Text.Json.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.ValueTuple.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.csproj.AssemblyReference.cache
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.csproj.SuggestedBindingRedirects.cache
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.exe.config
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.Form1.resources
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.Properties.Resources.resources
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.csproj.GenerateResource.cache
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.csproj.CoreCompileInputs.cache
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.csproj.CopyComplete
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.exe
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\AppA.exe.config
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\AppA.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\AppA.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\M2Mqtt.Net.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\RestSharp.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Buffers.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Memory.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Text.Json.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.ValueTuple.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\RestSharp.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Buffers.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Memory.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Text.Json.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.ValueTuple.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.exe.config
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.Form1.resources
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.Properties.Resources.resources
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.csproj.GenerateResource.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.pdb
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\AppA.exe.config
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\AppA.exe
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\AppA.pdb
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\RestSharp.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Buffers.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Memory.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Text.Json.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.ValueTuple.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\RestSharp.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Buffers.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Memory.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Text.Json.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.ValueTuple.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.csproj.AssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.exe.config
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.Form1.resources
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.Properties.Resources.resources
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.csproj.GenerateResource.cache
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.csproj.CopyComplete
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.exe
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\obj\Debug\AppA.pdb
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Images\Blue.jpg
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Images\Red.png
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Images\Blue.jpg
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Images\Red.png
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\SOMIODMiddleware.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\WebActivatorEx.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Swashbuckle.Core.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Web.Http.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\SOMIODMiddleware.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\SOMIODMiddleware.dll.config
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Web.Http.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Images\Blue.jpg
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Images\Red.png
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\SOMIODMiddleware.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\WebActivatorEx.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Swashbuckle.Core.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Web.Http.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\SOMIODMiddleware.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\SOMIODMiddleware.dll.config
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Web.Http.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Newtonsoft.Json.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\AppA\bin\Debug\Newtonsoft.Json.Bson.xml

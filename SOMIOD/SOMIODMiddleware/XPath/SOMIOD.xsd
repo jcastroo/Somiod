@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="application" type="applicationType">
+	</xs:element>
+	
+	<xs:complexType name="applicationType">
+		<xs:sequence>
+			<xs:element name="container" type="containerType" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="name" type="xs:string"/>
+	</xs:complexType>
+
+	<xs:complexType name="containerType">
+		<xs:sequence>
+			<xs:element name="data" type="dataType" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="subscription" type="subscriptionType" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="name" type="xs:string"/>
+	</xs:complexType>
+
+	<xs:complexType name="dataType">
+		<xs:sequence>
+			<xs:element name="content" type="xs:string"/>
+		</xs:sequence>
+		<xs:attribute name="name" type="xs:string"/>
+	</xs:complexType>
+
+	<xs:complexType name="subscriptionType">
+		<xs:sequence>
+			<xs:element name="event" type="xs:string"/>
+			<xs:element name="endpoint" type="xs:string"/>
+		</xs:sequence>
+		<xs:attribute name="name" type="xs:string"/>
+	</xs:complexType>
+
+</xs:schema>

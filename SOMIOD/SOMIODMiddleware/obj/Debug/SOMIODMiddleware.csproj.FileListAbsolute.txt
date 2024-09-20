@@ -1,0 +1,231 @@
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\SOMIODMiddleware.dll.config
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\SOMIODMiddleware.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\SOMIODMiddleware.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csc.exe
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csc.exe.config
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csc.rsp
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csi.exe
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csi.exe.config
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csi.rsp
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\vbc.exe
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\vbc.exe.config
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\vbc.rsp
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\VBCSCompiler.exe
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Newtonsoft.Json.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Net.Http.Formatting.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Web.Http.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Web.Http.WebHost.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Newtonsoft.Json.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Net.Http.Formatting.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Web.Http.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Web.Http.WebHost.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\obj\Debug\SOMIODMiddleware.csproj.AssemblyReference.cache
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\obj\Debug\SOMIODMiddleware.csproj.CoreCompileInputs.cache
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\obj\Debug\SOMIODMiddleware.csproj.CopyComplete
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\obj\Debug\SOMIODMiddleware.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\obj\Debug\SOMIODMiddleware.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\SOMIODMiddleware.dll.config
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\SOMIODMiddleware.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\SOMIODMiddleware.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csc.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csc.exe.config
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csc.rsp
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csi.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csi.exe.config
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csi.rsp
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\vbc.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\vbc.exe.config
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\vbc.rsp
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\VBCSCompiler.exe
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Newtonsoft.Json.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Swashbuckle.Core.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Net.Http.Formatting.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Web.Http.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Web.Http.WebHost.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\WebActivatorEx.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Newtonsoft.Json.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Net.Http.Formatting.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Web.Http.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Web.Http.WebHost.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\obj\Debug\SOMIODMiddleware.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\obj\Debug\SOMIODMiddleware.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\obj\Debug\SOMIODMiddleware.csproj.CopyComplete
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\obj\Debug\SOMIODMiddleware.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\obj\Debug\SOMIODMiddleware.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Swashbuckle.Core.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\WebActivatorEx.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\M2Mqtt.Net.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\M2Mqtt.Net.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\RestSharp.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Buffers.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Memory.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Numerics.Vectors.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Text.Encodings.Web.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Text.Json.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.ValueTuple.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\RestSharp.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Buffers.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Memory.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Numerics.Vectors.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Text.Encodings.Web.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Text.Json.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.ValueTuple.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\SOMIODMiddleware.dll.config
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\SOMIODMiddleware.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\SOMIODMiddleware.pdb
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csc.exe
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csc.exe.config
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csc.rsp
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csi.exe
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csi.exe.config
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\csi.rsp
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\vbc.exe
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\vbc.exe.config
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\vbc.rsp
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\M2Mqtt.Net.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Newtonsoft.Json.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\RestSharp.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Swashbuckle.Core.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Buffers.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Memory.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Net.Http.Formatting.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Numerics.Vectors.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Text.Encodings.Web.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Text.Json.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.ValueTuple.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Web.Http.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Web.Http.WebHost.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\WebActivatorEx.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\M2Mqtt.Net.pdb
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\RestSharp.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Buffers.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Memory.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Numerics.Vectors.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Text.Encodings.Web.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Text.Json.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.ValueTuple.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Newtonsoft.Json.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Net.Http.Formatting.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Web.Http.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Web.Http.WebHost.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\obj\Debug\SOMIODMiddleware.csproj.AssemblyReference.cache
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\obj\Debug\SOMIODMiddleware.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\obj\Debug\SOMIODMiddleware.csproj.CopyComplete
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\obj\Debug\SOMIODMiddleware.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\obj\Debug\SOMIODMiddleware.pdb
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Buffers.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Memory.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Newtonsoft.Json.Bson.dll
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\Tomas\Documents\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Newtonsoft.Json.Bson.xml
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Buffers.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Memory.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Newtonsoft.Json.Bson.dll
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\root3\OneDrive - IPLeiria\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Newtonsoft.Json.Bson.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Buffers.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Memory.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\M2Mqtt.Net.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Newtonsoft.Json.Bson.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\RestSharp.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Buffers.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Memory.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Numerics.Vectors.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Text.Encodings.Web.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Text.Json.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.ValueTuple.dll
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\M2Mqtt.Net.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Newtonsoft.Json.Bson.pdb
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\Newtonsoft.Json.Bson.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\RestSharp.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Buffers.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Memory.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Numerics.Vectors.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Text.Encodings.Web.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Text.Json.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\pedro\OneDrive\Documentos\GitHub\ProjetoIS\SOMIOD\SOMIODMiddleware\bin\System.ValueTuple.xml
